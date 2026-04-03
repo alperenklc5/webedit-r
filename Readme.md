@@ -4,8 +4,8 @@ Tam Türkçe README + diğer dosyalar
 
 ═══════════════════════════════════════════════════════════════
 
-## DOSYA 1: README.md
-````markdown
+
+
 <div align="center">
 
 # 🎨 WebEdit-r
@@ -82,7 +82,7 @@ Sürükle-bırak kolaylığı ve yapay zeka yardımıyla fikirlerinizi muhteşem
 - Node.js 16+ ve npm
 
 ### Kurulum
-```bash
+
 # Depoyu klonlayın
 git clone https://github.com/alperenklc5/webedit-r.git
 cd webedit-r
@@ -92,11 +92,11 @@ npm install
 
 # Geliştirme sunucusunu başlatın
 npm run dev
-```
+
 
 Tarayıcınızda [http://localhost:5173](http://localhost:5173) adresini açın.
 
----
+
 
 ## 📖 Kullanım
 
