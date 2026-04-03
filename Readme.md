@@ -1,6 +1,5 @@
 WEBEDITR v1.0 - TÜRKÇE GITHUB DOSYALARI
 
-Tam Türkçe README + diğer dosyalar
 
 ═══════════════════════════════════════════════════════════════
 
