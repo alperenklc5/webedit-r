@@ -179,5 +179,5 @@ MIT Lisansı - detaylar için `LICENSE` dosyasına bakın.
 <div align="center">
 <br>
 ⭐ Bu projeyi faydalı bulduysanız yıldızlamayı unutmayın! <br>
-❤️ ve AI ile yapıldı
+❤️ Alperen KILIÇ ve AI ile yapıldı
 </div>
