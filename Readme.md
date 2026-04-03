@@ -56,10 +56,10 @@ Sürükle-bırak kolaylığı ve yapay zeka yardımıyla fikirlerinizi muhteşem
 
 ---
 
-## 📸 Arayüzden Ekran Görüntüleri
+## 📸 Monaco Editör Kod Düzenleme ve Terminal Ekran görüntüleri
 
 <div align="center">
-  <img width="49%" alt="Ekran Görüntüsü 1" src="https://github.com/user-attachments/assets/ff6f88c1-13ac-4a1b-910f-14d39f554f21" />
+  
   <img width="49%" alt="Ekran Görüntüsü 2" src="https://github.com/user-attachments/assets/8a38c2e4-7283-4a0e-9f6c-c1106f2ec811" />
   <br><br>
   <img width="49%" alt="Ekran Görüntüsü 3" src="https://github.com/user-attachments/assets/23d5f7bf-146b-4843-8eb9-cd71c66b8002" />
@@ -116,6 +116,9 @@ Tarayıcınızda `http://localhost:5173` adresini açın.
    * **Taşı:** Seçili elementi sürükleyin.
    * **Metni Düzenle:** Metin elementlerine çift tıklayın.
    * **Stillendir:** Sağ paneli kullanın (renkler, boyut, boşluk, kenarlıklar).
+    <div align="center">
+    <img width="80%" alt="Ekran Görüntüsü 1" src="https://github.com/user-attachments/assets/ff6f88c1-13ac-4a1b-910f-14d39f554f21" />
+    </div>
 
 4. **AI Asistanı Kullanın**
    * Araç çubuğundaki 🤖 AI Assistant butonuna tıklayın.
