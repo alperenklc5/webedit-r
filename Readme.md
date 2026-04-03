@@ -52,7 +52,7 @@ Sürükle-bırak kolaylığı ve yapay zeka yardımıyla fikirlerinizi muhteşem
 - **Sanal Terminal:** git, npm dahil 20+ komut
 
 <div align="center">
-  <img width="49%" alt="Ekran Görüntüsü 4" src="https://github.com/user-attachments/assets/df6c3c7e-1b34-47ba-b887-178fa63df0ba" />
+  <img width="80%" alt="Ekran Görüntüsü 4" src="https://github.com/user-attachments/assets/df6c3c7e-1b34-47ba-b887-178fa63df0ba" />
   
 </div>
 
@@ -65,7 +65,7 @@ Sürükle-bırak kolaylığı ve yapay zeka yardımıyla fikirlerinizi muhteşem
   <img width="49%" alt="Ekran Görüntüsü 2" src="https://github.com/user-attachments/assets/8a38c2e4-7283-4a0e-9f6c-c1106f2ec811" />
   <br><br>
   <img width="49%" alt="Ekran Görüntüsü 3" src="https://github.com/user-attachments/assets/23d5f7bf-146b-4843-8eb9-cd71c66b8002" />
-  <img width="80%" alt="Eklentiler ve Terminal" src="https://github.com/user-attachments/assets/d16bf9fa-4a7c-4e38-a252-397b377a529d" />
+  <img width="49%" alt="Eklentiler ve Terminal" src="https://github.com/user-attachments/assets/d16bf9fa-4a7c-4e38-a252-397b377a529d" />
 </div>
 
 ---
