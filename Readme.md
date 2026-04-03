@@ -105,6 +105,11 @@ Tarayıcınızda `http://localhost:5173` adresini açın.
    * Sol kenar çubuğundaki 🧰 Araç Kutusu sekmesine tıklayın.
    * Kategorilere göz atın: Temel, Form, Gelişmiş, Medya, Layout, Grafikler.
    * Componentleri tıklayın veya kanvasa sürükleyin.
+     <div align="center">
+       <img width="80%"  alt="Ekran görüntüsü 2026-04-03 112849" src="https://github.com/user-attachments/assets/0793a26a-b670-48b8-b04e-e214c713c17b" />
+
+  
+</div>
 
 3. **Elementleri Düzenleyin**
    * **Seç:** Herhangi bir elemente tıklayın.
