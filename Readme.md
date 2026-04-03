@@ -30,9 +30,7 @@ Sürükle-bırak kolaylığı ve yapay zeka yardımıyla fikirlerinizi muhteşem
 - **Bağlam Farkındalığı:** Siteyi yeniden yapmadan iyileştirmeler
 - **Profesyonel Çıktı:** WordPress/Webflow kalitesinde siteler
 
-<div align="center">
-  <img width="80%" alt="AI Asistan Görünümü" src="https://github.com/user-attachments/assets/8f3e3978-9cdd-440e-9ace-cd7d34df3db9" />
-</div>
+
 
 ### 🎨 Görsel Editör & 🧰 Gelişmiş Araç Kutusu
 - **Sürükle & Bırak:** Elementleri özgürce taşıyın
@@ -99,6 +97,9 @@ Tarayıcınızda `http://localhost:5173` adresini açın.
    * **Tema Yükle:** "Temalar" butonuna tıklayarak 9 hazır temaya göz atın.
    * **AI ile Oluştur:** AI Asistan'ı açın → "Modern bir portfolyo sitesi oluştur".
    * **Boş Başla:** Boş kanvas ile başlayın.
+  <div align="center">
+  <img width="80%" alt="AI Asistan Görünümü" src="https://github.com/user-attachments/assets/8f3e3978-9cdd-440e-9ace-cd7d34df3db9" />
+</div>
 
 2. **Component Ekleyin**
    * Sol kenar çubuğundaki 🧰 Araç Kutusu sekmesine tıklayın.
